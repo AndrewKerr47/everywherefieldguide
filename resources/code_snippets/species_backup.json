@@ -1,0 +1,1647 @@
+[
+  {
+    "scientific_name": "Bothrops atrox",
+    "english_name": "Common Lancehead",
+    "local_name": "jararaca-da-Amazônia",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Hemotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 100,
+    "max_size_cm": 150,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "The most medically significant snake in the Amazon basin and the leading cause of snakebite fatalities in Brazil. Largely terrestrial and nocturnal, inhabiting lowland rainforest, forest edges, and riparian corridors. Highly adaptable and frequently encountered near human settlements.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 2685,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/49001-Bothrops-atrox",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #49001"
+  },
+  {
+    "scientific_name": "Bothrops bilineatus",
+    "english_name": "Green Jararaca",
+    "local_name": "jararaca-verde",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Hemotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 120,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": "A vivid green arboreal pit viper of Amazonian rainforest canopy and understorey. Primarily nocturnal, coiling on branches 1–4 metres above ground. Despite its arboreal habits, it is responsible for a significant number of snakebite incidents in the region.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 440,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/539411-Bothrops-bilineatus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #539411"
+  },
+  {
+    "scientific_name": "Bothrops brazili",
+    "english_name": "Brazil's Lancehead",
+    "local_name": "jararaca-de-Brazil",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Hemotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 130,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A robust and secretive pit viper of primary Amazonian forest. Largely terrestrial and nocturnal, sheltering beneath leaf litter and fallen logs. Less frequently encountered than Bothrops atrox but equally dangerous due to potent hemotoxic venom.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 46,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30796-Bothrops-brazili",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #30796"
+  },
+  {
+    "scientific_name": "Bothrops taeniatus",
+    "english_name": "Speckled Forest Pitviper",
+    "local_name": "jararaca-tigrina",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Hemotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 120,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A slender, arboreal pit viper distinguished by its strongly keeled scales and speckled brown-and-tan pattern. Primarily nocturnal, hunting in low vegetation and on the forest floor. Reported as Bothrops castelnaudi in older Carajás literature.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30779-Bothrops-taeniatus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30779"
+  },
+  {
+    "scientific_name": "Lachesis muta",
+    "english_name": "South American Bushmaster",
+    "local_name": "surucucu-pico-de-jaca",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Hemotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 200,
+    "max_size_cm": 300,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "The largest venomous snake in the Americas and the longest pit viper in the world. A strictly nocturnal ambush predator of primary rainforest, relying on exceptional leaf-litter camouflage to ambush small mammals. A strong indicator of intact primary habitat.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 462,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/73840-Lachesis-muta",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #73840"
+  },
+  {
+    "scientific_name": "Micrurus hemprichii",
+    "english_name": "Hemprich's Coralsnake",
+    "local_name": "cobra-coral-de-Hemprich",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Neurotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 120,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A little-known coral snake of Amazonian forest, identified by a distinctive banding pattern. Largely fossorial and rarely encountered. Confirmed from the Carajás National Forest in the 2015–2023 survey period.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30517-Micrurus-hemprichii",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30517"
+  },
+  {
+    "scientific_name": "Micrurus lemniscatus",
+    "english_name": "Ribbon Coralsnake",
+    "local_name": "cobra-coral-fita",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Neurotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 110,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A slender, boldly banded coral snake with red, black, and white rings. Secretive and largely fossorial. Bites are uncommon but potentially life-threatening due to potent neurotoxic venom.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 93,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30498-Micrurus-lemniscatus",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #30498"
+  },
+  {
+    "scientific_name": "Micrurus paraensis",
+    "english_name": "Pará Coralsnake",
+    "local_name": "cobra-coral-do-Pará",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Neurotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 110,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "The Pará coral snake — a species with restricted distribution centred on the Brazilian state of Pará. Confirmed from Carajás National Forest in the 2015–2023 survey. Very rarely encountered. Ecology poorly known.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 14,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30526-Micrurus-paraensis",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30526"
+  },
+  {
+    "scientific_name": "Micrurus spixii",
+    "english_name": "Amazon Coralsnake",
+    "local_name": "cobra-coral-amazônica",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Neurotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 110,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A semi-aquatic coral snake of Amazonian forest and wetland margins. The Carajás population was formerly referred to as Micrurus spixii martiusi. Feeds primarily on elongate prey including other snakes and caecilians.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30517-Micrurus-spixii",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey; subspecies collapsed to species · iNaturalist taxon #30517"
+  },
+  {
+    "scientific_name": "Micrurus surinamensis",
+    "english_name": "Aquatic Coralsnake",
+    "local_name": "cobra-coral-aquática",
+    "taxon_group": "snake",
+    "venom_status": "dangerous",
+    "venom_type": "Neurotoxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 130,
+    "habitat": [
+      "Riparian",
+      "Wetland"
+    ],
+    "description": "An aquatic coral snake closely associated with rivers and streams. Distinguished from other coral snakes by its predominantly aquatic habits and association with riparian habitats. Confirmed from the 2015–2023 Carajás National Forest survey.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30551-Micrurus-surinamensis",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30551"
+  },
+  {
+    "scientific_name": "Adelphostigma quadriocellata",
+    "english_name": "Four-eyed Ground Snake",
+    "local_name": "cobra-de-chão-quatro-ocelos",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 25,
+    "max_size_cm": 40,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 10,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/1439538-Adelphostigma-quadriocellata",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey; taxonomic update per Reptile Database · iNaturalist taxon #1439538"
+  },
+  {
+    "scientific_name": "Dipsas catesbyi",
+    "english_name": "Catesby's Snail-eater",
+    "local_name": "dorminhoca-de-Catesby",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 60,
+    "max_size_cm": 80,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": "A slender nocturnal arboreal snake specialised for extracting snails and slugs from their shells using its elongated lower jaw. One of the most frequently recorded species in night surveys at Carajás National Forest. Calm and slow-moving, relying on camouflage rather than flight.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 799,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30392-Dipsas-catesbyi",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30392"
+  },
+  {
+    "scientific_name": "Dipsas indica",
+    "english_name": "Neotropical Snail-eater",
+    "local_name": "dorminhoca",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 60,
+    "max_size_cm": 90,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30395-Dipsas-indica",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30395"
+  },
+  {
+    "scientific_name": "Dipsas pavonina",
+    "english_name": "Northern Snail-eater",
+    "local_name": "papa-lesma-pavonina",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 55,
+    "max_size_cm": 75,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 72,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30378-Dipsas-pavonina",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #30378"
+  },
+  {
+    "scientific_name": "Dipsas variegata",
+    "english_name": "Variegated Snail-eater",
+    "local_name": "dorminhoca-variegada",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 50,
+    "max_size_cm": 80,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30406-Dipsas-variegata",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30406"
+  },
+  {
+    "scientific_name": "Drepanoides anomalus",
+    "english_name": "Black-collared Snake",
+    "local_name": "cobra-de-colar-preto",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 50,
+    "max_size_cm": 80,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29111-Drepanoides-anomalus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29111"
+  },
+  {
+    "scientific_name": "Erythrolamprus aesculapii",
+    "english_name": "Aesculapian False Coral Snake",
+    "local_name": "falsa-coral-aesculápia",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 70,
+    "max_size_cm": 110,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 512,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30152-Erythrolamprus-aesculapii",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #30152"
+  },
+  {
+    "scientific_name": "Erythrolamprus carajasensis",
+    "english_name": "Carajás Ground Snake",
+    "local_name": "cobra-de-chão-de-Carajás",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "EN",
+    "avg_size_cm": 40,
+    "max_size_cm": 60,
+    "habitat": [
+      "Forest",
+      "Canga",
+      "Grassland"
+    ],
+    "description": "A small ground snake described from specimens collected in the Carajás region and considered endemic to the area. Associated with the open canga (ironstone outcrop) vegetation unique to the Serra dos Carajás plateau. One of the very few reptiles considered specific to this habitat. Very rarely encountered.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 1,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/539676-Erythrolamprus-carajasensis",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey; taxonomy updated · iNaturalist taxon #539676"
+  },
+  {
+    "scientific_name": "Erythrolamprus oligolepis",
+    "english_name": "Small-scaled Ground Snake",
+    "local_name": "cobra-de-chão-de-escamas-pequenas",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 35,
+    "max_size_cm": 55,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/539691-Erythrolamprus-oligolepis",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey; taxonomy updated · iNaturalist taxon #539691"
+  },
+  {
+    "scientific_name": "Erythrolamprus reginae",
+    "english_name": "Royal Ground Snake",
+    "local_name": "cobra-de-chão-rainha",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 40,
+    "max_size_cm": 60,
+    "habitat": [
+      "Forest",
+      "Riparian"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/539696-Erythrolamprus-reginae",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey; taxonomy updated · iNaturalist taxon #539696"
+  },
+  {
+    "scientific_name": "Helicops angulatus",
+    "english_name": "Brown-banded Watersnake",
+    "local_name": "cobra-d'água-angulada",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 110,
+    "habitat": [
+      "Riparian",
+      "Wetland"
+    ],
+    "description": "A semi-aquatic snake strongly associated with slow-moving water bodies, flooded forest margins, and riverside vegetation. Feeds primarily on fish and frogs. Keeled scales and dorsally positioned eyes are adaptations for an aquatic lifestyle.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29976-Helicops-angulatus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29976"
+  },
+  {
+    "scientific_name": "Imantodes cenchoa",
+    "english_name": "Common Blunt-headed Tree Snake",
+    "local_name": "cobra-cabeça-roma",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 150,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A remarkably slender arboreal snake with a disproportionately large head and enormous eyes adapted for nocturnal vision. Moves through vegetation with exceptional agility, bridging gaps between branches. Feeds almost exclusively on sleeping lizards and frogs. One of the most commonly encountered arboreal snakes during night surveys.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 4298,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29873-Imantodes-cenchoa",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29873"
+  },
+  {
+    "scientific_name": "Leptodeira annulata",
+    "english_name": "Banded Cat-eyed Snake",
+    "local_name": "cobra-olho-de-gato-anelada",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 60,
+    "max_size_cm": 100,
+    "habitat": [
+      "Forest",
+      "Riparian",
+      "Grassland"
+    ],
+    "description": "A nocturnal cat-eyed snake of forest and riparian habitats, identifiable by its large vertical pupils and boldly banded pattern. Feeds primarily on frogs, lizards, and their eggs. One of the most frequently recorded snake species in the 2015–2023 Carajás National Forest survey.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 913,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29718-Leptodeira-annulata",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29718"
+  },
+  {
+    "scientific_name": "Oxybelis aeneus",
+    "english_name": "Brown Vine Snake",
+    "local_name": "cobra-cipó-marrom",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 120,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": "A slender, fast-moving brown vine snake of forest edges and open shrubby habitats. Less conspicuous than its green relative Oxybelis fulgidus. Diurnal, feeding primarily on lizards. Rear-fanged venom presents minimal risk to humans.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 524,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/83515-Oxybelis-aeneus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #83515"
+  },
+  {
+    "scientific_name": "Oxybelis fulgidus",
+    "english_name": "Green Vine Snake",
+    "local_name": "cobra-cipó-verde-brilhante",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 150,
+    "max_size_cm": 220,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "An extraordinarily slender, bright green arboreal snake that mimics a vine with remarkable fidelity. Diurnal and fast-moving, hunting lizards through active pursuit. Its rear-fanged venom presents minimal risk to humans. One of the most morphologically distinctive snakes of the region.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 1312,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29178-Oxybelis-fulgidus",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #29178"
+  },
+  {
+    "scientific_name": "Oxyrhopus melanogenys",
+    "english_name": "Black-headed False Coral Snake",
+    "local_name": "falsa-coral-de-cabeça-preta",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 120,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A nocturnal false coral snake of Amazonian forest. Distinguished from Oxyrhopus petolarius by its black head. Feeds on lizards and small mammals. Confirmed from Carajás National Forest in the 2015–2023 survey period.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29201-Oxyrhopus-melanogenys",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29201"
+  },
+  {
+    "scientific_name": "Oxyrhopus petolarius",
+    "english_name": "Forest Flame Snake",
+    "local_name": "falsa-coral-da-floresta",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 70,
+    "max_size_cm": 100,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": "A boldly patterned snake that mimics venomous coral snakes with red, black, and cream banding. Primarily nocturnal and terrestrial, feeding on lizards and small mammals. One of the most commonly misidentified snakes in the region.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 1823,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/146320-Oxyrhopus-petolarius",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #146320"
+  },
+  {
+    "scientific_name": "Philodryas viridissima",
+    "english_name": "Common Green Racer",
+    "local_name": "corredora-verde-comum",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 120,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29097-Philodryas-viridissima",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey; iNaturalist uses viridissima · iNaturalist taxon #29097"
+  },
+  {
+    "scientific_name": "Pseudoboa coronata",
+    "english_name": "Crowned False Boa",
+    "local_name": "falsa-jiboia-coroada",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 100,
+    "max_size_cm": 150,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29240-Pseudoboa-coronata",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29240"
+  },
+  {
+    "scientific_name": "Pseudoboa nigra",
+    "english_name": "Black False Boa",
+    "local_name": "falsa-jiboia-preta",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 100,
+    "max_size_cm": 150,
+    "habitat": [
+      "Forest",
+      "Canga",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 384,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/28942-Pseudoboa-nigra",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #28942"
+  },
+  {
+    "scientific_name": "Rhinobothryum lentiginosum",
+    "english_name": "Speckled Forest Snake",
+    "local_name": "cobra-anelada-amazônica",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 100,
+    "max_size_cm": 150,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 69,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/28766-Rhinobothryum-lentiginosum",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #28766"
+  },
+  {
+    "scientific_name": "Sibon nebulatus",
+    "english_name": "Cloudy Snail-eater",
+    "local_name": "dorminhoca-nebulosa",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 60,
+    "max_size_cm": 90,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30591-Sibon-nebulatus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30591"
+  },
+  {
+    "scientific_name": "Siphlophis compressus",
+    "english_name": "Tropical Flat Snake",
+    "local_name": "cobra-chata-tropical",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 120,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 582,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/28656-Siphlophis-compressus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #28656"
+  },
+  {
+    "scientific_name": "Siphlophis worontzowi",
+    "english_name": "Worontzow's Flat Snake",
+    "local_name": "cobra-chata-de-Worontzow",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 80,
+    "max_size_cm": 110,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/28662-Siphlophis-worontzowi",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #28662"
+  },
+  {
+    "scientific_name": "Taeniophallus quadriocellatus",
+    "english_name": "Four-eyed Ground Snake",
+    "local_name": "cobra-de-chão-quatro-ocelos",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 30,
+    "max_size_cm": 50,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30007-Taeniophallus-quadriocellatus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30007"
+  },
+  {
+    "scientific_name": "Xenodon rabdocephalus",
+    "english_name": "False Fer-de-lance",
+    "local_name": "falsa-jararaca",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 60,
+    "max_size_cm": 90,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": "A stocky terrestrial snake that mimics Bothrops pit vipers, flattening its head into a triangular shape when threatened. Feeds primarily on frogs. Despite its alarming defensive display, its rear-fanged venom presents little risk to humans.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 490,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/28031-Xenodon-rabdocephalus",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #28031"
+  },
+  {
+    "scientific_name": "Xenodon severus",
+    "english_name": "Amazon False Fer-de-lance",
+    "local_name": "falsa-jararaca-amazônica",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 70,
+    "max_size_cm": 100,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A larger relative of Xenodon rabdocephalus with similar defensive mimicry behaviour. Associated with forest floor habitats. Recorded from the 1985 Cunha et al. survey of the Carajás region.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 65,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/115052-Xenodon-severus",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #115052"
+  },
+  {
+    "scientific_name": "Xenopholis scalaris",
+    "english_name": "Scalebellied Ground Snake",
+    "local_name": "cobra-de-chão-escamada",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 30,
+    "max_size_cm": 50,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30045-Xenopholis-scalaris",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #30045"
+  },
+  {
+    "scientific_name": "Xenoxybelis argentea",
+    "english_name": "Silver Vine Snake",
+    "local_name": "cobra-cipó-prateada",
+    "taxon_group": "snake",
+    "venom_status": "low_risk",
+    "venom_type": "Mildly toxic",
+    "iucn_status": "LC",
+    "avg_size_cm": 120,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29953-Xenoxybelis-argentea",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29953"
+  },
+  {
+    "scientific_name": "Anilius scytale",
+    "english_name": "False Coral Snake",
+    "local_name": "falsa-coral-canudo",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 60,
+    "max_size_cm": 90,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A primitive burrowing snake representing one of the most ancient snake lineages in South America. Boldly banded in red and black to mimic venomous coral snakes. Strictly fossorial, spending almost all of its life underground or beneath leaf litter. Feeds on elongate prey including caecilians and other snakes.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/32073-Anilius-scytale",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #32073"
+  },
+  {
+    "scientific_name": "Apostolepis quinquelineata",
+    "english_name": "Five-lined Burrowing Snake",
+    "local_name": "cobra-cabeça-preta-de-cinco-linhas",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 25,
+    "max_size_cm": 40,
+    "habitat": [
+      "Canga",
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/Apostolepis%20quinquelineata",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #None"
+  },
+  {
+    "scientific_name": "Atractus tartarus",
+    "english_name": "Tartarus Ground Snake",
+    "local_name": "cobrinha-da-terra-tártaro",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 20,
+    "max_size_cm": 40,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/675260-Atractus-tartarus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #675260"
+  },
+  {
+    "scientific_name": "Boa constrictor",
+    "english_name": "Boa Constrictor",
+    "local_name": "jiboia",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 200,
+    "max_size_cm": 300,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": "One of the most widespread and recognisable snakes in the Americas. A powerful constrictor occupying habitats from dense rainforest to open savanna and canga. Primarily terrestrial but capable climbers. Feeds on birds and mammals up to the size of small deer.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 5206,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29377-Boa-constrictor",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29377"
+  },
+  {
+    "scientific_name": "Chironius exoletus",
+    "english_name": "Common Sipo",
+    "local_name": "cobra-cipó-comum",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 150,
+    "max_size_cm": 200,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29899-Chironius-exoletus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29899"
+  },
+  {
+    "scientific_name": "Chironius flavolineata",
+    "english_name": "Yellow-striped Sipo",
+    "local_name": "cobra-cipó-listrada-amarela",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 150,
+    "max_size_cm": 220,
+    "habitat": [
+      "Forest",
+      "Canga",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29907-Chironius-flavolineatus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29907"
+  },
+  {
+    "scientific_name": "Chironius fuscus",
+    "english_name": "Brown Sipo",
+    "local_name": "cobra-cipó-marrom",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 120,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29910-Chironius-fuscus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29910"
+  },
+  {
+    "scientific_name": "Chironius multiventris",
+    "english_name": "South American Sipo",
+    "local_name": "cobra-cipó-barriguda",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 150,
+    "max_size_cm": 220,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 467,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/27241-Chironius-multiventris",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #27241"
+  },
+  {
+    "scientific_name": "Chironius scurrulus",
+    "english_name": "Scurrulus Sipo",
+    "local_name": "cobra-cipó-scurrulus",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 150,
+    "max_size_cm": 200,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29915-Chironius-scurrulus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29915"
+  },
+  {
+    "scientific_name": "Corallus batesii",
+    "english_name": "Bates's Tree Boa",
+    "local_name": "jiboia-esmeralda-da-Amazônia",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 150,
+    "max_size_cm": 200,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "The Amazon Basin Emerald Tree Boa — a spectacular bright green arboreal boa with a white vertebral stripe and irregular lateral markings. Nocturnal, hunting birds and small mammals from branches. South-of-Amazon populations were formally split from Corallus caninus in 2009.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/672388-Corallus-batesii",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #672388"
+  },
+  {
+    "scientific_name": "Corallus hortulana",
+    "english_name": "Amazon Tree Boa",
+    "local_name": "salamanta",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 120,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A highly variable arboreal boa found throughout Amazonia, with colour morphs ranging from yellow and orange to grey and brown. Strictly nocturnal, coiling on branches 2–5 metres above ground. An ambush predator of lizards, birds, and small mammals.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 2147,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/32082-Corallus-hortulana",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #32082"
+  },
+  {
+    "scientific_name": "Dendrophidion dendrophis",
+    "english_name": "Amazon Forest Racer",
+    "local_name": "corredora-florestal-amazônica",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 100,
+    "max_size_cm": 150,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29212-Dendrophidion-dendrophis",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29212"
+  },
+  {
+    "scientific_name": "Drymarchon corais",
+    "english_name": "Yellow-tailed Indigo Snake",
+    "local_name": "cobra-índigo-de-cauda-amarela",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 180,
+    "max_size_cm": 250,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 282,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/30335-Drymarchon-corais",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #30335"
+  },
+  {
+    "scientific_name": "Drymoluber dichrous",
+    "english_name": "Bird Snake",
+    "local_name": "cobra-passarinho",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 120,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29315-Drymoluber-dichrous",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29315"
+  },
+  {
+    "scientific_name": "Epicrates cenchria",
+    "english_name": "Rainbow Boa",
+    "local_name": "jiboia-arco-íris",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 120,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "Named for the spectacular iridescent sheen of its scales, which produces a rainbow effect in sunlight due to microscopic ridges acting as prisms. A semi-arboreal constrictor of humid Amazonian forest. Primarily nocturnal, feeding on small rodents, birds, and lizards.",
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": 1191,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/32237-Epicrates-cenchria",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #32237"
+  },
+  {
+    "scientific_name": "Leptophis ahaetulla",
+    "english_name": "Giant Parrot Snake",
+    "local_name": "cobra-cipó-verde",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 120,
+    "max_size_cm": 180,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": "A brilliantly iridescent green arboreal snake with striking metallic scales. Diurnal and fast-moving, hunting frogs and lizards in low vegetation and forest edges. Rear-fanged venom causes minimal symptoms in humans. Commonly encountered in riparian and edge habitats.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 320,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29688-Leptophis-ahaetulla",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #29688"
+  },
+  {
+    "scientific_name": "Mastigodryas bifossatus",
+    "english_name": "Rio Tropical Racer",
+    "local_name": "corredora-rio",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 140,
+    "max_size_cm": 200,
+    "habitat": [
+      "Forest",
+      "Canga",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29397-Mastigodryas-bifossatus",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #29397"
+  },
+  {
+    "scientific_name": "Mastigodryas boddaerti",
+    "english_name": "Boddaert's Tropical Racer",
+    "local_name": "corredora-tropical-de-Boddaert",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 140,
+    "max_size_cm": 200,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 846,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29395-Mastigodryas-boddaerti",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey; spelling updated · iNaturalist taxon #29395"
+  },
+  {
+    "scientific_name": "Phrynonax poecilonotus",
+    "english_name": "Puffing Snake",
+    "local_name": "cobra-estufadora",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 150,
+    "max_size_cm": 200,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29334-Phrynonax-poecilonotus",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #29334"
+  },
+  {
+    "scientific_name": "Spilotes pullatus",
+    "english_name": "Chicken Snake",
+    "local_name": "caninana",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 180,
+    "max_size_cm": 250,
+    "habitat": [
+      "Forest",
+      "Grassland"
+    ],
+    "description": "One of the largest non-venomous snakes in the Neotropics, boldly marked with black and yellow. An agile diurnal predator equally at home on the ground and in the canopy. Highly alert and defensive when approached.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": 2806,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/28627-Spilotes-pullatus",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #28627"
+  },
+  {
+    "scientific_name": "Spilotes sulphureus",
+    "english_name": "Yellow-bellied Hissing Snake",
+    "local_name": "caninana-amarela",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 180,
+    "max_size_cm": 250,
+    "habitat": [
+      "Forest"
+    ],
+    "description": "A large, predominantly yellow arboreal snake with black markings. Closely related to Spilotes pullatus but more strongly associated with the forest canopy. Both survey periods confirmed its presence at Carajás.",
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      },
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/29672-Spilotes-sulphureus",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey; 2015–2023 Carajás National Forest survey · iNaturalist taxon #29672"
+  },
+  {
+    "scientific_name": "Trilepida macrolepis",
+    "english_name": "Big-scaled Threadsnake",
+    "local_name": "cobra-cega-de-escamas-grandes",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 10,
+    "max_size_cm": 20,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "UFSC-2023",
+        "name": "CNF Herpetofauna Survey 2015–2023",
+        "url": "https://repositorio.ufsc.br/bitstream/handle/123456789/268946/PECO0265-T.pdf"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/33559-Trilepida-macrolepis",
+    "inat_image_url": null,
+    "source_notes": "UFSC thesis Table S1 (2015–2023 CNF survey) · iNaturalist taxon #33559"
+  },
+  {
+    "scientific_name": "Xenopholis undulatus",
+    "english_name": "Jensen's Ground Snake",
+    "local_name": "cobra-de-chão-ondulada",
+    "taxon_group": "snake",
+    "venom_status": "non_venomous",
+    "venom_type": null,
+    "iucn_status": "LC",
+    "avg_size_cm": 25,
+    "max_size_cm": 40,
+    "habitat": [
+      "Forest"
+    ],
+    "description": null,
+    "survey_presence": [
+      {
+        "id": "CN-1985",
+        "name": "Cunha et al. 1985",
+        "url": "https://www.academia.edu/98379773/Os_R%C3%A9pteis_da_%C3%A1rea_de_Caraj%C3%A1s_Par%C3%A1_Brasil_Testudines_e_Squamata_I"
+      }
+    ],
+    "inat_observations": null,
+    "inat_taxon_url": "https://www.inaturalist.org/taxa/28018-Xenopholis-undulatus",
+    "inat_image_url": null,
+    "source_notes": "Cunha et al. 1985 Carajás reptile survey · iNaturalist taxon #28018"
+  }
+]

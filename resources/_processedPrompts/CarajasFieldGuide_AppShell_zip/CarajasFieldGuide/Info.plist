@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+    <!-- ── App identity ─────────────────────────────────────────────────── -->
+    <key>CFBundleName</key>
+    <string>Carajás Field Guide</string>
+
+    <key>CFBundleDisplayName</key>
+    <string>Carajás</string>
+
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+
+    <key>CFBundleVersion</key>
+    <string>$(CURRENT_PROJECT_VERSION)</string>
+
+    <key>CFBundleShortVersionString</key>
+    <string>$(MARKETING_VERSION)</string>
+
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+
+    <!-- ── Custom fonts ──────────────────────────────────────────────────
+         All font files must be added to the Xcode project under
+         Resources/Fonts/ and have their Target Membership set.
+         Font filenames must match exactly.
+    ────────────────────────────────────────────────────────────────────── -->
+    <key>UIAppFonts</key>
+    <array>
+        <!-- Manrope — headline font -->
+        <string>Manrope-Medium.ttf</string>
+        <string>Manrope-Bold.ttf</string>
+        <string>Manrope-ExtraBold.ttf</string>
+
+        <!-- Inter — body and label font -->
+        <string>Inter-Regular.ttf</string>
+        <string>Inter-Medium.ttf</string>
+        <string>Inter-SemiBold.ttf</string>
+    </array>
+
+    <!-- ── Appearance ────────────────────────────────────────────────────
+         App is light mode only — warm off-white design system.
+    ────────────────────────────────────────────────────────────────────── -->
+    <key>UIUserInterfaceStyle</key>
+    <string>Light</string>
+
+    <!-- ── Status bar ────────────────────────────────────────────────── -->
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleLightContent</string>
+
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <false/>
+
+    <!-- ── Orientation — iPhone portrait only for MVP ─────────────────── -->
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+
+    <!-- ── Scene configuration ───────────────────────────────────────── -->
+    <key>UIApplicationSceneManifest</key>
+    <dict>
+        <key>UIApplicationSupportsMultipleScenes</key>
+        <false/>
+        <key>UISceneConfigurations</key>
+        <dict>
+            <key>UIWindowSceneSessionRoleApplication</key>
+            <array>
+                <dict>
+                    <key>UISceneConfigurationName</key>
+                    <string>Default Configuration</string>
+                    <key>UISceneDelegateClassName</key>
+                    <string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+
+    <!-- ── Network — allow iNaturalist image loading ─────────────────── -->
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <!-- Allow HTTPS to all domains for iNaturalist image URLs -->
+        <key>NSAllowsArbitraryLoads</key>
+        <false/>
+        <key>NSExceptionDomains</key>
+        <dict>
+            <key>inaturalist.org</key>
+            <dict>
+                <key>NSExceptionAllowsInsecureHTTPLoads</key>
+                <false/>
+                <key>NSIncludesSubdomains</key>
+                <true/>
+            </dict>
+            <!-- iNaturalist CDN -->
+            <key>inaturalist-open-data.s3.amazonaws.com</key>
+            <dict>
+                <key>NSExceptionAllowsInsecureHTTPLoads</key>
+                <false/>
+                <key>NSIncludesSubdomains</key>
+                <true/>
+            </dict>
+        </dict>
+    </dict>
+
+    <!-- ── Launch screen ─────────────────────────────────────────────── -->
+    <key>UILaunchScreen</key>
+    <dict>
+        <key>UIColorName</key>
+        <string>AccentColor</string>
+    </dict>
+
+</dict>
+</plist>
