@@ -36,3 +36,5 @@ __pycache__/
 # Credentials / secrets — never commit these
 *.env
 secrets.json
+bkups/
+resources/github-recovery-codes.txt
