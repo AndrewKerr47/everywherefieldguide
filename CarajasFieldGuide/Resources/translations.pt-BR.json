@@ -1,0 +1,139 @@
+{
+  "Bothrops atrox": {
+    "description": "A cobra de maior importância médica na bacia amazônica e a principal causa de mortes por ofidismo no Brasil. Predominantemente terrestre e noturna, habita florestas de terra baixa, bordas de mata e corredores ripários. Altamente adaptável e frequentemente encontrada nas proximidades de assentamentos humanos.",
+    "venom_type": "Hemotóxico",
+    "habitat": ["Floresta"]
+  },
+  "Bothrops bilineatus": {
+    "description": "Uma jararaca arborícola de coloração verde-viva, encontrada no dossel e sub-bosque da floresta amazônica. Predominantemente noturna, enrola-se em galhos a 1–4 metros do chão. Apesar dos hábitos arborícolas, é responsável por um número significativo de acidentes ofídicos na região.",
+    "venom_type": "Hemotóxico",
+    "habitat": ["Floresta", "Campo"]
+  },
+  "Bothrops brazili": {
+    "description": "Uma jararaca robusta e discreta da floresta primária amazônica. Predominantemente terrestre e noturna, abriga-se sob a serrapilheira e troncos caídos. Menos frequentemente encontrada do que Bothrops atrox, mas igualmente perigosa devido ao potente veneno hemotóxico.",
+    "venom_type": "Hemotóxico",
+    "habitat": ["Floresta"]
+  },
+  "Bothrops taeniatus": {
+    "description": "Uma jararaca arborícola e esbelta, distinguida por suas escamas fortemente quilhadas e padrão mosqueado em marrom e bege. Predominantemente noturna, caça na vegetação baixa e no chão da floresta. Citada como Bothrops castelnaudi na literatura mais antiga sobre Carajás.",
+    "venom_type": "Hemotóxico",
+    "habitat": ["Floresta"]
+  },
+  "Lachesis muta": {
+    "description": "A maior cobra venenosa das Américas e a maior víbora de fosseta do mundo. Predador de emboscada estritamente noturno da floresta primária, usando sua camuflagem excepcional na serrapilheira para capturar pequenos mamíferos. Um forte indicador de habitat primário intacto.",
+    "venom_type": "Hemotóxico",
+    "habitat": ["Floresta"]
+  },
+  "Micrurus hemprichii": {
+    "description": "Uma cobra-coral pouco conhecida da floresta amazônica, identificada por um padrão de bandas distinto. Predominantemente fossorial e raramente encontrada. Confirmada na Floresta Nacional de Carajás no período de levantamento 2015–2023.",
+    "venom_type": "Neurotóxico",
+    "habitat": ["Floresta"]
+  },
+  "Micrurus lemniscatus": {
+    "description": "Uma cobra-coral esbelta e vistosamente listrada com anéis vermelhos, pretos e brancos. Discreta e predominantemente fossorial. Acidentes são incomuns, mas potencialmente fatais devido ao potente veneno neurotóxico.",
+    "venom_type": "Neurotóxico",
+    "habitat": ["Floresta"]
+  },
+  "Micrurus paraensis": {
+    "description": "A cobra-coral do Pará — uma espécie com distribuição restrita centrada no estado brasileiro do Pará. Confirmada na Floresta Nacional de Carajás no levantamento de 2015–2023. Muito raramente encontrada. Ecologia pouco conhecida.",
+    "venom_type": "Neurotóxico",
+    "habitat": ["Floresta"]
+  },
+  "Micrurus spixii": {
+    "description": "Uma cobra-coral semi-aquática de florestas amazônicas e margens de áreas úmidas. A população de Carajás era anteriormente referida como Micrurus spixii martiusi. Alimenta-se principalmente de presas alongadas, incluindo outras cobras e cecílias.",
+    "venom_type": "Neurotóxico",
+    "habitat": ["Floresta"]
+  },
+  "Micrurus surinamensis": {
+    "description": "Uma cobra-coral aquática estreitamente associada a rios e riachos. Distingue-se das demais cobras-coral pelos seus hábitos predominantemente aquáticos e associação com habitats ripários. Confirmada no levantamento da Floresta Nacional de Carajás 2015–2023.",
+    "venom_type": "Neurotóxico",
+    "habitat": ["Ripário", "Área Úmida"]
+  },
+  "Erythrolamprus carajasensis": {
+    "description": "Uma cobra de chão de pequeno porte descrita a partir de espécimes coletados na região de Carajás e considerada endêmica da área. Associada à vegetação de canga (afloramento de rocha ferruginosa) característica do platô da Serra dos Carajás. Um dos poucos répteis considerados específicos desse habitat. Raramente encontrada.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta", "Canga", "Campo"]
+  },
+  "Helicops angulatus": {
+    "description": "Uma cobra semi-aquática fortemente associada a corpos d'água de curso lento, margens de florestas inundadas e vegetação ribeirinha. Alimenta-se principalmente de peixes e rãs. As escamas quilhadas e os olhos posicionados dorsalmente são adaptações para o estilo de vida aquático.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Ripário", "Área Úmida"]
+  },
+  "Imantodes cenchoa": {
+    "description": "Uma cobra arborícola extraordinariamente esbelta, com cabeça desproporcionalmente grande e olhos enormes adaptados para a visão noturna. Move-se pela vegetação com excepcional agilidade, transpondo lacunas entre galhos. Alimenta-se quase exclusivamente de lagartos e rãs adormecidos. Uma das cobras arborícolas mais comumente encontradas em levantamentos noturnos.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta"]
+  },
+  "Leptodeira annulata": {
+    "description": "Uma cobra-de-olho-de-gato noturna de habitats florestais e ripários, identificável pelas grandes pupilas verticais e pelo padrão vistosamente listrado. Alimenta-se principalmente de rãs, lagartos e seus ovos. Uma das espécies de cobra mais frequentemente registradas no levantamento da Floresta Nacional de Carajás 2015–2023.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta", "Ripário", "Campo"]
+  },
+  "Oxybelis aeneus": {
+    "description": "Uma cobra-cipó marrom, esbelta e ágil, de bordas de floresta e habitats arbustivos abertos. Menos conspícua do que sua congênere verde Oxybelis fulgidus. Diurna, alimenta-se principalmente de lagartos. O veneno opistóglifo apresenta risco mínimo para humanos.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta", "Campo"]
+  },
+  "Oxybelis fulgidus": {
+    "description": "Uma cobra arborícola extraordinariamente esbelta e verde-brilhante que imita uma cipó com notável fidelidade. Diurna e ágil, caça lagartos por perseguição ativa. O veneno opistóglifo apresenta risco mínimo para humanos. Uma das cobras morfologicamente mais distintas da região.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta"]
+  },
+  "Oxyrhopus melanogenys": {
+    "description": "Uma falsa-coral noturna da floresta amazônica. Distingue-se de Oxyrhopus petolarius pela cabeça preta. Alimenta-se de lagartos e pequenos mamíferos. Confirmada na Floresta Nacional de Carajás no período de levantamento 2015–2023.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta"]
+  },
+  "Oxyrhopus petolarius": {
+    "description": "Uma cobra de padrão vistoso que imita cobras-coral venenosas com bandas vermelhas, pretas e creme. Predominantemente noturna e terrestre, alimenta-se de lagartos e pequenos mamíferos. Uma das cobras mais frequentemente identificadas de forma equivocada na região.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta", "Campo"]
+  },
+  "Xenodon rabdocephalus": {
+    "description": "Uma cobra terrestre robusta que imita as jararacas do gênero Bothrops, achatando a cabeça em formato triangular quando ameaçada. Alimenta-se principalmente de rãs. Apesar do alarme de sua exibição defensiva, o veneno opistóglifo apresenta pouco risco para humanos.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta", "Campo"]
+  },
+  "Xenodon severus": {
+    "description": "Uma espécie maior e parente próxima de Xenodon rabdocephalus, com comportamento de mimetismo defensivo semelhante. Associada a habitats de chão de floresta. Registrada no levantamento de 1985 de Cunha et al. da região de Carajás.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta"]
+  },
+  "Anilius scytale": {
+    "description": "Uma cobra fossorial primitiva que representa uma das linhagens de serpentes mais antigas da América do Sul. Vistosamente listrada em vermelho e preto para imitar cobras-coral venenosas. Estritamente fossorial, passa quase toda a sua vida sob o solo ou a serrapilheira. Alimenta-se de presas alongadas, incluindo cecílias e outras cobras.",
+    "habitat": ["Floresta"]
+  },
+  "Boa constrictor": {
+    "description": "Uma das cobras mais amplamente distribuídas e reconhecíveis das Américas. Uma poderosa constritora que ocupa habitats que vão desde a densa floresta tropical até savanas abertas e canga. Predominantemente terrestre, mas excelente escaladora. Alimenta-se de aves e mamíferos de até o porte de pequenos cervídeos.",
+    "habitat": ["Floresta", "Campo"]
+  },
+  "Corallus batesii": {
+    "description": "A jiboia-esmeralda da bacia amazônica — uma jiboia arborícola espetacular de coloração verde-brilhante com uma listra vertebral branca e marcações laterais irregulares. Noturna, caça aves e pequenos mamíferos entre os galhos. As populações ao sul do Amazonas foram formalmente separadas de Corallus caninus em 2009.",
+    "habitat": ["Floresta"]
+  },
+  "Corallus hortulana": {
+    "description": "Uma jiboia arborícola altamente variável encontrada em toda a Amazônia, com morfos de coloração que vão do amarelo e laranja ao cinza e marrom. Estritamente noturna, enrola-se em galhos a 2–5 metros do chão. Predadora de emboscada de lagartos, aves e pequenos mamíferos.",
+    "habitat": ["Floresta"]
+  },
+  "Epicrates cenchria": {
+    "description": "Nomeada pelo espetacular brilho iridescente de suas escamas, que produz um efeito de arco-íris à luz do sol devido a microestruturas que funcionam como prismas. Uma constritora semi-arborícola de florestas amazônicas úmidas. Predominantemente noturna, alimenta-se de pequenos roedores, aves e lagartos.",
+    "habitat": ["Floresta"]
+  },
+  "Leptophis ahaetulla": {
+    "description": "Uma cobra arborícola verde-iridescente brilhante com escamas metálicas marcantes. Diurna e ágil, caça rãs e lagartos na vegetação baixa e bordas de floresta. O veneno opistóglifo causa sintomas mínimos em humanos. Comumente encontrada em habitats ripários e de borda.",
+    "habitat": ["Floresta", "Campo"]
+  },
+  "Spilotes pullatus": {
+    "description": "Uma das maiores cobras não venenosas dos Neotrópicos, vistosamente marcada com preto e amarelo. Um predador diurno e ágil, igualmente à vontade no chão e no dossel. Muito alerta e defensivo quando se aproximam.",
+    "habitat": ["Floresta", "Campo"]
+  },
+  "Spilotes sulphureus": {
+    "description": "Uma cobra arborícola grande e predominantemente amarela com marcações pretas. Estreitamente relacionada a Spilotes pullatus, mas mais fortemente associada ao dossel da floresta. Ambos os períodos de levantamento confirmaram sua presença em Carajás.",
+    "habitat": ["Floresta"]
+  },
+  "Dipsas catesbyi": {
+    "description": "Uma cobra arborícola noturna e esbelta, especializada em extrair caramujos e lesmas de suas conchas usando sua mandíbula inferior alongada. Uma das espécies mais frequentemente registradas em levantamentos noturnos na Floresta Nacional de Carajás. Calma e de movimentos lentos, depende da camuflagem em vez da fuga.",
+    "venom_type": "Levemente tóxico",
+    "habitat": ["Floresta", "Campo"]
+  }
+}

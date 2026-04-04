@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "flag_brazil_circle.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

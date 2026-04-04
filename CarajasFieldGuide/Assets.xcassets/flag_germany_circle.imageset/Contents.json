@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "flag_germany_circle.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
