@@ -38,3 +38,4 @@ __pycache__/
 secrets.json
 bkups/
 resources/github-recovery-codes.txt
+resources/
