@@ -34,14 +34,11 @@ struct LandingView: View {
     private let languages: [AppLanguage] = [
         AppLanguage(id: "en",    assetName: "flag_uk_circle"),
         AppLanguage(id: "pt-BR", assetName: "flag_brazil_circle"),
-        AppLanguage(id: "es",    assetName: "flag_spain_circle"),
-        AppLanguage(id: "fr",    assetName: "flag_france_circle"),
-        AppLanguage(id: "de",    assetName: "flag_germany_circle")
     ]
 
     static var defaultLanguage: String {
         let lang = Locale.current.language.languageCode?.identifier ?? "en"
-        let supported = ["en", "pt-BR", "es", "fr", "de"]
+        let supported = ["en", "pt-BR"]
         return supported.contains(lang) ? lang : "en"
     }
 
