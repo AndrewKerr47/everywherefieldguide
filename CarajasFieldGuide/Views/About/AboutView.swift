@@ -1,11 +1,5 @@
 import SwiftUI
 
-// ─────────────────────────────────────────────────────────────────────────────
-// AboutView.swift
-// Carajás Field Guide
-// Sprint 4 — localised (en + pt-BR)
-// ─────────────────────────────────────────────────────────────────────────────
-
 struct AboutView: View {
 
     struct SurveySource: Identifiable {
@@ -42,10 +36,13 @@ struct AboutView: View {
         return "\(version) (\(build))"
     }
 
+    private func loc(_ key: String, _ fallback: String) -> String {
+        LocaleManager.shared.localizedString(key, defaultValue: fallback)
+    }
+
     var body: some View {
         ScrollView(showsIndicators: false) {
             VStack(alignment: .leading, spacing: 0) {
-
                 headerSection
                 sectionDivider
                 methodologySection
@@ -59,7 +56,7 @@ struct AboutView: View {
             .padding(.bottom, 48)
         }
         .background(Color.appBackground.ignoresSafeArea())
-        .navigationTitle(String(localized: "about.nav_title"))
+        .navigationTitle(loc("about.nav_title", "About"))
         .navigationBarTitleDisplayMode(.inline)
         .sheet(isPresented: $showSafari) {
             if let url = safariURL {
@@ -68,16 +65,15 @@ struct AboutView: View {
         }
     }
 
-    // ── Header ────────────────────────────────────────────────────────────────
     private var headerSection: some View {
         VStack(alignment: .leading, spacing: 6) {
             Text("Carajás Field Guide")
                 .font(.custom("Manrope-Bold", size: 22))
                 .foregroundColor(.appPrimary)
-            Text("Snakes of Serra dos Carajás")
+            Text(loc("about.header_subtitle", "Snakes of Serra dos Carajás"))
                 .font(.custom("Inter_18pt-Regular", size: 13))
                 .foregroundColor(.onSurfaceVariant)
-            Text("A species-by-species reference for the confirmed snake fauna of the Serra dos Carajás, Pará, Brazil — one of the most biodiverse regions on Earth.")
+            Text(loc("about.header_body", "A species-by-species reference for the confirmed snake fauna of the Serra dos Carajás, Pará, Brazil — one of the most biodiverse regions on Earth."))
                 .font(.custom("Inter_18pt-Regular", size: 13))
                 .foregroundColor(.onSurfaceVariant)
                 .lineSpacing(4)
@@ -89,11 +85,10 @@ struct AboutView: View {
         .padding(.bottom, 24)
     }
 
-    // ── Methodology ───────────────────────────────────────────────────────────
     private var methodologySection: some View {
         VStack(alignment: .leading, spacing: 12) {
-            sectionLabel("Survey-first data")
-            Text("Every species in this guide is confirmed by either a peer-reviewed field survey or by community observations sourced from iNaturalist. Use the filter panel to toggle species by data source — view survey records, iNaturalist observations, or the full confirmed list.\n\nWhere data is absent, fields are left blank — this guide does not estimate or extrapolate.")
+            sectionLabel(loc("about.methodology_title", "Survey-first data"))
+            Text(loc("about.methodology_body", "Every species in this guide is confirmed by either a peer-reviewed field survey or by community observations sourced from iNaturalist. Use the filter panel to toggle species by data source — view survey records, iNaturalist observations, or the full confirmed list.\n\nWhere data is absent, fields are left blank — this guide does not estimate or extrapolate."))
                 .font(.custom("Inter_18pt-Regular", size: 13))
                 .foregroundColor(.onSurfaceVariant)
                 .lineSpacing(4)
@@ -103,10 +98,9 @@ struct AboutView: View {
         .padding(.vertical, 24)
     }
 
-    // ── Data sources ──────────────────────────────────────────────────────────
     private var sourcesSection: some View {
         VStack(alignment: .leading, spacing: 16) {
-            sectionLabel("Data sources")
+            sectionLabel(loc("about.sources_title", "Data sources"))
             ForEach(surveySources) { source in
                 surveyCard(source)
             }
@@ -115,16 +109,14 @@ struct AboutView: View {
         .padding(.vertical, 24)
     }
 
-    // ── Image credits ─────────────────────────────────────────────────────────
     private var imageCreditsSection: some View {
         VStack(alignment: .leading, spacing: 12) {
-            sectionLabel("Image credits")
-            Text("Species photographs are reproduced under Creative Commons licence or with explicit permission from the original photographer. All images remain the property of their respective owners and are credited accordingly.")
+            sectionLabel(loc("about.credits_title", "Image credits"))
+            Text(loc("about.credits_body", "Species photographs are reproduced under Creative Commons licence or with explicit permission from the original photographer. All images remain the property of their respective owners and are credited accordingly."))
                 .font(.custom("Inter_18pt-Regular", size: 13))
                 .foregroundColor(.onSurfaceVariant)
                 .lineSpacing(4)
                 .fixedSize(horizontal: false, vertical: true)
-
             Button {
                 openURL("https://www.inaturalist.org")
             } label: {
@@ -147,13 +139,12 @@ struct AboutView: View {
         .padding(.vertical, 24)
     }
 
-    // ── Version footer ────────────────────────────────────────────────────────
     private var versionFooter: some View {
         VStack(alignment: .leading, spacing: 4) {
-            Text("Version \(appVersion)")
+            Text(loc("about.version", "Version") + " \(appVersion)")
                 .font(.custom("Inter_18pt-Regular", size: 11))
                 .foregroundColor(.outline)
-            Text("Built by Mantella")
+            Text(loc("about.built_by", "Built by Mantella"))
                 .font(.custom("Inter_18pt-Regular", size: 11))
                 .foregroundColor(.outline)
             Text("andrewkerresq@gmail.com")
@@ -165,7 +156,6 @@ struct AboutView: View {
         .padding(.bottom, 8)
     }
 
-    // ── Reusable components ───────────────────────────────────────────────────
     private func sectionLabel(_ text: String) -> some View {
         Text(text.uppercased())
             .font(.custom("Inter_18pt-Regular", size: 9))
@@ -182,7 +172,6 @@ struct AboutView: View {
 
     private func surveyCard(_ source: SurveySource) -> some View {
         VStack(alignment: .leading, spacing: 10) {
-
             HStack(alignment: .center) {
                 Text(source.shortName)
                     .font(.custom("Inter_18pt-SemiBold", size: 11))
@@ -191,14 +180,12 @@ struct AboutView: View {
                     .padding(.vertical, 5)
                     .background(Color.secondaryContainer)
                     .clipShape(Capsule())
-
                 Spacer()
-
                 Button {
                     openURL(source.urlString)
                 } label: {
                     HStack(spacing: 4) {
-                        Text("View source")
+                        Text(loc("about.view_source", "View source"))
                             .font(.custom("Inter_18pt-Regular", size: 11))
                         Image(systemName: "arrow.up.right")
                             .font(.system(size: 10, weight: .medium))
@@ -207,7 +194,6 @@ struct AboutView: View {
                 }
                 .buttonStyle(.plain)
             }
-
             Text(source.fullCitation)
                 .font(.custom("Inter_18pt-Regular", size: 12))
                 .foregroundColor(.onSurfaceVariant)
@@ -229,7 +215,5 @@ struct AboutView: View {
 }
 
 #Preview {
-    NavigationStack {
-        AboutView()
-    }
+    NavigationStack { AboutView() }
 }
