@@ -59,6 +59,150 @@
         }
       }
     },
+    "about.guide_inat_desc" : {
+      "comment" : "Description label next to the iNat bar in the guide section of About",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relative observation count within the guide area"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contagem relativa de observações na área do guia"
+          }
+        }
+      }
+    },
+    "about.guide_inat_title" : {
+      "comment" : "Subsection heading for iNat observations in guide section of About",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iNaturalist observations"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Observações no iNaturalist"
+          }
+        }
+      }
+    },
+    "about.guide_iucn_title" : {
+      "comment" : "Subsection heading for IUCN status legend in guide section of About",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conservation status"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado de conservação"
+          }
+        }
+      }
+    },
+    "about.guide_survey_cn1985" : {
+      "comment" : "Description for the Cunha et al. 1985 survey pill in guide section of About",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmed in the 1985 Museu Goeldi field survey"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmado no levantamento de campo do Museu Goeldi de 1985"
+          }
+        }
+      }
+    },
+    "about.guide_survey_cnf" : {
+      "comment" : "Description for the CNF 2015–2023 survey pill in guide section of About",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmed in the 2015–2023 CNF herpetofauna survey"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmado no levantamento herpetofauna CNF 2015–2023"
+          }
+        }
+      }
+    },
+    "about.guide_survey_title" : {
+      "comment" : "Subsection heading for survey records legend in guide section of About",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Survey records"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registros de levantamento"
+          }
+        }
+      }
+    },
+    "about.guide_title" : {
+      "comment" : "Section label for the how-to-use guide section in About",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "How to use this guide"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Como usar este guia"
+          }
+        }
+      }
+    },
+    "about.guide_venom_title" : {
+      "comment" : "Subsection heading for venom risk legend in guide section of About",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Venom risk"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Risco de veneno"
+          }
+        }
+      }
+    },
     "about.header_body" : {
       "comment" : "Introductory paragraph in About header",
       "extractionState" : "stale",

@@ -49,6 +49,8 @@ struct AboutView: View {
                 sectionDivider
                 sourcesSection
                 sectionDivider
+                howToUseSection
+                sectionDivider
                 imageCreditsSection
                 sectionDivider
                 versionFooter
@@ -211,6 +213,143 @@ struct AboutView: View {
         guard let url = URL(string: string) else { return }
         safariURL = url
         showSafari = true
+    }
+
+    // ── How to use this guide ─────────────────────────────────────────────────
+
+    private var howToUseSection: some View {
+        VStack(alignment: .leading, spacing: 20) {
+            sectionLabel(loc("about.guide_title", "How to use this guide"))
+
+            // 1. Venom risk
+            VStack(alignment: .leading, spacing: 8) {
+                guideSubsectionLabel(loc("about.guide_venom_title", "Venom risk"))
+                VStack(spacing: 5) {
+                    ForEach(VenomStatus.allCases, id: \.self) { status in
+                        guideVenomRow(status)
+                    }
+                }
+            }
+
+            // 2. Conservation status
+            VStack(alignment: .leading, spacing: 8) {
+                guideSubsectionLabel(loc("about.guide_iucn_title", "Conservation status"))
+                VStack(spacing: 5) {
+                    ForEach(IUCNStatus.allCases, id: \.self) { status in
+                        guideIUCNRow(status)
+                    }
+                }
+            }
+
+            // 3. Survey records
+            VStack(alignment: .leading, spacing: 8) {
+                guideSubsectionLabel(loc("about.guide_survey_title", "Survey records"))
+                VStack(spacing: 5) {
+                    guideSurveyRow(
+                        name: "Cunha et al. 1985",
+                        desc: loc("about.guide_survey_cn1985",
+                                  "Confirmed in the 1985 Museu Goeldi field survey"))
+                    guideSurveyRow(
+                        name: "CNF Herpetofauna Survey 2015–2023",
+                        desc: loc("about.guide_survey_cnf",
+                                  "Confirmed in the 2015–2023 CNF herpetofauna survey"))
+                }
+            }
+
+            // 4. iNaturalist observations
+            VStack(alignment: .leading, spacing: 8) {
+                guideSubsectionLabel(loc("about.guide_inat_title", "iNaturalist observations"))
+                HStack(alignment: .center, spacing: 12) {
+                    ZStack(alignment: .leading) {
+                        RoundedRectangle(cornerRadius: 2)
+                            .fill(Color.outlineVariant.opacity(0.20))
+                            .frame(width: 120, height: 3)
+                        RoundedRectangle(cornerRadius: 2)
+                            .fill(Color.appSecondary)
+                            .frame(width: 52, height: 3)
+                    }
+                    Text(loc("about.guide_inat_desc",
+                             "Relative observation count within the guide area"))
+                        .font(.custom("Inter_18pt-Regular", size: 12))
+                        .foregroundColor(.onSurfaceVariant)
+                        .lineSpacing(3)
+                        .fixedSize(horizontal: false, vertical: true)
+                }
+            }
+        }
+        .padding(.horizontal, 20)
+        .padding(.vertical, 24)
+    }
+
+    private func guideSubsectionLabel(_ text: String) -> some View {
+        Text(text)
+            .font(.custom("Inter_18pt-SemiBold", size: 11))
+            .foregroundColor(.onSurface)
+    }
+
+    private func guideVenomRow(_ status: VenomStatus) -> some View {
+        HStack(spacing: 10) {
+            Group {
+                if status == .nonVenomous {
+                    Image("icon_smile")
+                        .renderingMode(.template)
+                        .resizable()
+                        .scaledToFit()
+                } else {
+                    Image("icon_skull")
+                        .renderingMode(.template)
+                        .resizable()
+                        .scaledToFit()
+                }
+            }
+            .frame(width: 18, height: 18)
+            .foregroundColor(status.color)
+
+            Text(status.label)
+                .font(.custom("Inter_18pt-Regular", size: 13))
+                .foregroundColor(.onSurface)
+            Spacer()
+        }
+        .padding(.vertical, 6)
+        .padding(.horizontal, 10)
+        .background(status.rowBackground)
+        .cornerRadius(AppRadius.small)
+    }
+
+    private func guideIUCNRow(_ status: IUCNStatus) -> some View {
+        HStack(spacing: 10) {
+            Text(status.code)
+                .font(.custom("Inter_18pt-SemiBold", size: 10))
+                .foregroundColor(status.color)
+                .padding(.horizontal, 8)
+                .padding(.vertical, 3)
+                .overlay(
+                    RoundedRectangle(cornerRadius: AppRadius.pill)
+                        .stroke(status.color.opacity(0.60), lineWidth: 1)
+                )
+            Text(status.label)
+                .font(.custom("Inter_18pt-Regular", size: 13))
+                .foregroundColor(.onSurfaceVariant)
+            Spacer()
+        }
+    }
+
+    private func guideSurveyRow(name: String, desc: String) -> some View {
+        HStack(alignment: .top, spacing: 10) {
+            Text(name)
+                .font(.surveyPill)
+                .foregroundColor(.onSecondaryContainer)
+                .padding(.horizontal, 12)
+                .padding(.vertical, 4)
+                .background(Color.secondaryContainer)
+                .cornerRadius(AppRadius.pill)
+            Text(desc)
+                .font(.custom("Inter_18pt-Regular", size: 12))
+                .foregroundColor(.onSurfaceVariant)
+                .lineSpacing(3)
+                .fixedSize(horizontal: false, vertical: true)
+            Spacer(minLength: 0)
+        }
     }
 }
 
