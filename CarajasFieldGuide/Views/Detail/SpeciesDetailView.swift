@@ -1,4 +1,5 @@
 import SwiftUI
+import MapKit
 import SafariServices
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -64,6 +65,9 @@ struct SpeciesDetailView: View {
                             )
                             .padding(.bottom, 48)
                         }
+
+                        SightingsMapView(sightings: species.inatSightings ?? [])
+                            .padding(.bottom, AppSpacing.sectionMargin)
 
                         if let creditLine = species.creditLine, !creditLine.isEmpty {
                             ImageCreditView(
