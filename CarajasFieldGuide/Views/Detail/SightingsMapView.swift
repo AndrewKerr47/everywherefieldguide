@@ -91,14 +91,17 @@ struct SightingsMapView: View {
                                 longitude: sightings[i].lng
                             )
                         ) {
-                            Image(systemName: "mappin.circle.fill")
-                                .font(.system(size: 28))
-                                .foregroundStyle(Color.appSecondary)
+                            Image("marker_pin")
+                                .renderingMode(.template)
+                                .foregroundColor(Color.white)
+                                .frame(width: 28, height: 38)
+                                .shadow(color: .black.opacity(0.3), radius: 2, x: 0, y: 1)
                         }
                     }
                 }
                 .frame(height: 260)
                 .clipShape(RoundedRectangle(cornerRadius: AppRadius.pill))
+                .mapStyle(.standard)
 
                 // TODO: Replace with localised plural string via LocaleManager
                 // once plural substitution support is added to the pipeline.
